@@ -1,0 +1,13 @@
+Oct 03 13:13:24 127.0.0.1 (pid 13130) Author 1: Currency:&nbsp;is now set to “KES”, previously was “€”.
+Oct 03 13:13:29 127.0.0.1 (pid 14366) Author 1: The list of available translations has been updated.
+Feb 03 00:50:43 197.237.206.157 (pid 54334) Author 1: Income:&nbsp;is now set to “yes (optional)”, previously was “no”.
+Mar 14 15:38:15 ::1 (pid 7880) Author 1: Site name:&nbsp;is now set to “Legalcase Management System”, previously was “title_software”.
+Mar 14 15:38:15 ::1 (pid 7880) Author 1: Site description:&nbsp;is now set to “GlascoteRose Advocates”, previously was “title_software_description”.
+Mar 14 15:38:15 ::1 (pid 7880) Author 1: E-mail of site administrator:&nbsp;is now set to “info@glascoterose.com”, previously was “krufed@gmail.com”.
+Mar 14 15:51:38 ::1 (pid 7880) Author 1: Site name:&nbsp;is now set to “GlascoteRose Advocates”, previously was “Legalcase Management System”.
+Mar 14 15:51:38 ::1 (pid 7880) Author 1: Site description:&nbsp;is now set to “Legalcase Management System”, previously was “GlascoteRose Advocates”.
+Jul 13 13:30:13 41.212.70.8 (pid 846507) Author 1: Internet address or network location:&nbsp;is now set to “http://glascoterose.com/legalcase/”, previously was “http://localhost/legalcase/”.
+Jul 13 13:30:13 41.212.70.8 (pid 846507) Author 1: E-mail of site administrator:&nbsp;is now set to “info@glascoterose.com”, previously was “krufed@gmail.com”.
+Jul 13 13:33:08 41.212.70.8 (pid 864551) Author 1: Site name:&nbsp;is now set to “Glascoterose Advocates”, previously was “title_software”.
+Jul 13 13:33:08 41.212.70.8 (pid 864551) Author 1: Site description:&nbsp;is now set to “Legal Case Management system”, previously was “title_software_description”.
+Aug 17 13:35:42 41.212.70.8 (pid 739710) Author 1: New author self-registration changed to 'moderated', was 'no'.

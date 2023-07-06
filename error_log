@@ -1,0 +1,64 @@
+[29-Aug-2022 12:58:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function userErrorHandler(), 4 passed and exactly 5 expected in /home1/glascoterose/public_html/legalcase/inc/inc_version.php:375
+Stack trace:
+#0 /home1/glascoterose/public_html/legalcase/inc/inc_version.php(444): userErrorHandler(2, 'Undefined varia...', '/home1/glascote...', 444)
+#1 /home1/glascoterose/public_html/legalcase/inc/inc.php(24): include('/home1/glascote...')
+#2 /home1/glascoterose/public_html/legalcase/listcases.php(24): include('/home1/glascote...')
+#3 /home1/glascoterose/public_html/legalcase/index.php(22): include('/home1/glascote...')
+#4 {main}
+  thrown in /home1/glascoterose/public_html/legalcase/inc/inc_version.php on line 375
+[01-Sep-2022 16:09:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function userErrorHandler(), 4 passed and exactly 5 expected in /home1/glascoterose/public_html/legalcase/inc/inc_version.php:375
+Stack trace:
+#0 /home1/glascoterose/public_html/legalcase/inc/inc_version.php(444): userErrorHandler(2, 'Undefined varia...', '/home1/glascote...', 444)
+#1 /home1/glascoterose/public_html/legalcase/inc/inc.php(24): include('/home1/glascote...')
+#2 /home1/glascoterose/public_html/legalcase/listcases.php(24): include('/home1/glascote...')
+#3 /home1/glascoterose/public_html/legalcase/index.php(22): include('/home1/glascote...')
+#4 {main}
+  thrown in /home1/glascoterose/public_html/legalcase/inc/inc_version.php on line 375
+[01-Sep-2022 16:09:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function userErrorHandler(), 4 passed and exactly 5 expected in /home1/glascoterose/public_html/legalcase/inc/inc_version.php:375
+Stack trace:
+#0 /home1/glascoterose/public_html/legalcase/inc/inc_version.php(444): userErrorHandler(2, 'Undefined varia...', '/home1/glascote...', 444)
+#1 /home1/glascoterose/public_html/legalcase/inc/inc.php(24): include('/home1/glascote...')
+#2 /home1/glascoterose/public_html/legalcase/listcases.php(24): include('/home1/glascote...')
+#3 /home1/glascoterose/public_html/legalcase/index.php(22): include('/home1/glascote...')
+#4 {main}
+  thrown in /home1/glascoterose/public_html/legalcase/inc/inc_version.php on line 375
+[02-Nov-2022 05:54:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function userErrorHandler(), 4 passed and exactly 5 expected in /home1/glascoterose/public_html/legalcase/inc/inc_version.php:375
+Stack trace:
+#0 /home1/glascoterose/public_html/legalcase/inc/inc_version.php(444): userErrorHandler(2, 'Undefined varia...', '/home1/glascote...', 444)
+#1 /home1/glascoterose/public_html/legalcase/inc/inc.php(24): include('/home1/glascote...')
+#2 /home1/glascoterose/public_html/legalcase/listcases.php(24): include('/home1/glascote...')
+#3 /home1/glascoterose/public_html/legalcase/index.php(22): include('/home1/glascote...')
+#4 {main}
+  thrown in /home1/glascoterose/public_html/legalcase/inc/inc_version.php on line 375
+[02-Nov-2022 05:54:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function userErrorHandler(), 4 passed and exactly 5 expected in /home1/glascoterose/public_html/legalcase/inc/inc_version.php:375
+Stack trace:
+#0 /home1/glascoterose/public_html/legalcase/inc/inc_version.php(444): userErrorHandler(2, 'Undefined varia...', '/home1/glascote...', 444)
+#1 /home1/glascoterose/public_html/legalcase/inc/inc.php(24): include('/home1/glascote...')
+#2 /home1/glascoterose/public_html/legalcase/listcases.php(24): include('/home1/glascote...')
+#3 /home1/glascoterose/public_html/legalcase/index.php(22): include('/home1/glascote...')
+#4 {main}
+  thrown in /home1/glascoterose/public_html/legalcase/inc/inc_version.php on line 375
+[30-Jun-2023 15:18:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function userErrorHandler(), 4 passed and exactly 5 expected in /home1/glascoterose/public_html/legalcase/inc/inc_version.php:375
+Stack trace:
+#0 /home1/glascoterose/public_html/legalcase/inc/inc_version.php(444): userErrorHandler(2, 'Undefined varia...', '/home1/glascote...', 444)
+#1 /home1/glascoterose/public_html/legalcase/inc/inc.php(24): include('/home1/glascote...')
+#2 /home1/glascoterose/public_html/legalcase/listcases.php(24): include('/home1/glascote...')
+#3 /home1/glascoterose/public_html/legalcase/index.php(22): include('/home1/glascote...')
+#4 {main}
+  thrown in /home1/glascoterose/public_html/legalcase/inc/inc_version.php on line 375
+[30-Jun-2023 15:18:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function userErrorHandler(), 4 passed and exactly 5 expected in /home1/glascoterose/public_html/legalcase/inc/inc_version.php:375
+Stack trace:
+#0 /home1/glascoterose/public_html/legalcase/inc/inc_version.php(444): userErrorHandler(2, 'Undefined varia...', '/home1/glascote...', 444)
+#1 /home1/glascoterose/public_html/legalcase/inc/inc.php(24): include('/home1/glascote...')
+#2 /home1/glascoterose/public_html/legalcase/listcases.php(24): include('/home1/glascote...')
+#3 /home1/glascoterose/public_html/legalcase/index.php(22): include('/home1/glascote...')
+#4 {main}
+  thrown in /home1/glascoterose/public_html/legalcase/inc/inc_version.php on line 375
+[30-Jun-2023 15:18:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function userErrorHandler(), 4 passed and exactly 5 expected in /home1/glascoterose/public_html/legalcase/inc/inc_version.php:375
+Stack trace:
+#0 /home1/glascoterose/public_html/legalcase/inc/inc_version.php(444): userErrorHandler(2, 'Undefined varia...', '/home1/glascote...', 444)
+#1 /home1/glascoterose/public_html/legalcase/inc/inc.php(24): include('/home1/glascote...')
+#2 /home1/glascoterose/public_html/legalcase/listcases.php(24): include('/home1/glascote...')
+#3 /home1/glascoterose/public_html/legalcase/index.php(22): include('/home1/glascote...')
+#4 {main}
+  thrown in /home1/glascoterose/public_html/legalcase/inc/inc_version.php on line 375
